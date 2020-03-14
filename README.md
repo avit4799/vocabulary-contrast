@@ -477,7 +477,7 @@ Simplex communication——单工通讯
 
 帯(たい)域(いき)幅(はば)/帯域/バンド幅——带宽Bandwidth
 
-搬(はん)送(そう)波(は)——载波
+搬(はん)送(そう)波(は)——载波<![endif]--> carrier wave
 
 SN比/信号雑音比——信噪比signal-noise ratio
 
@@ -679,5 +679,5 @@ threshold——阈值
 
 frequency spectrum——频谱
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDc4MzYxNV19
+eyJoaXN0b3J5IjpbLTExNzE5ODc0MzcsMTYzNDc4MzYxNV19
 -->
