@@ -625,7 +625,7 @@ Maximum Transmission Unit——最大传输单元
 
 伝(でん)送(そう)路——信道
 
-#微观经济学
+# 微观经济学
 
 ミクロ経済学ーーmicroeconomics, 微观经济学
 
