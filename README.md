@@ -641,6 +641,18 @@ Maximum Transmission Unit——最大传输单元
 
 顕示選好の理論ーーrevealed preference theory
 
+# 宏观经济学
+
+マクロ経済学ーーmacroeconomics, 宏观经济学
+
+国民経済計算ーーSystem of National Accounts, SNA
+
+フロー変数ーーflow, 流量
+
+ストック変数ーーstock, 存量
+
+キャピタル・ゲーン / キャピタル・ロスーーcapital gain / capital loss
+
 # 做题用的术语：
 
 merits and demerits/pros and cons——利与弊
