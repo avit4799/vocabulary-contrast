@@ -625,6 +625,22 @@ Maximum Transmission Unit——最大传输单元
 
 伝(でん)送(そう)路——信道
 
+#微观经济学
+
+ミクロ経済学ーーmicroeconomics, 微观经济学
+
+資源配分——resource allocation
+
+事実解明的ーーpositive, 实证
+
+規範的ーーnormative, 规范
+
+選好ーーpreference
+
+効用関数ーーutility function
+
+顕示選好の理論ーーrevealed preference theory
+
 # 做题用的术语：
 
 merits and demerits/pros and cons——利与弊
